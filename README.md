@@ -1,6 +1,7 @@
 # RW Bootcamp 
 
-This is an intense and focused bootcamp, that focuses on teaching developers Android Developement.
+This is an intense and focused bootcamp, that focuses on teaching developers Android Developement. 
+(README = work in progress)
 
 ## Work Plan
 
