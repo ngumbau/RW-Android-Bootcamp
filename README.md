@@ -9,7 +9,7 @@ These are the assignments that we will be submitting during the cohort.
 
 |Week            | Topic         | Assignment      | Deadline    | Notes                                            |
 |----------------|---------------|-----------------|-------------|--------------------------------------------------|
-|Week1 (May 25)  | Basic Kotlin  | BlackJack       | May 01      | * Late submission (1 day), problem with Nullables|  
+|Week1 (May 25)  | Basic Kotlin  | BlackJack       | June 01     | * Late submission (1 day), problem with Nullables|  
 
 ## BIO
 
